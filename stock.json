@@ -1,0 +1,14 @@
+
+[
+{"nombre": "RX 6600XT", "id":"148", "precio":85000, "imagen":"6600xt.png" },
+{"nombre": "GTX 1050TI", "id":"149", "precio":50000, "imagen":"1050ti.jpg" },
+{"nombre": "RTX 2060", "id":"150", "precio":99000, "imagen":"2060.jpg" },
+{"nombre": "i3 10100", "id":"151", "precio":25000, "imagen":"i3.webp" },
+{"nombre": "Ryzen 5 3600", "id":"152", "precio":35000, "imagen":"3600.jpg" },
+{"nombre": "Ryzen 7 5800X", "id":"153", "precio":65000, "imagen":"5800x.jpg" }
+]
+
+
+
+
+
